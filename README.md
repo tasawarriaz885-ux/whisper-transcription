@@ -11,7 +11,7 @@ FoziScribe-style audio/video transcription — pause-detection, word-level times
 - 📊 Per-line confidence scoring
 - 📁 TXT, SRT, VTT, JSON exports
 - 🌍 99+ language auto-detect
-- 🎚️ Flexible max-characters-per-line (10–300)
+- 🎚️ Flexible max-characters-per-line (10–1000)
 
 ## Kaise use karein
 1. Upar wale "Open in Colab" button per click karein
